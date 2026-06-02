@@ -35,10 +35,10 @@ export default function WhitepaperPage() {
 
         <div className="mt-10">
           <a
-            href="/Qassandra-Whitepaper.pdf"
+            href="/Qassandra_Whitepaper_v3.docx"
             className="inline-flex rounded-full border border-purple-300 px-6 py-3 text-sm font-semibold text-purple-200 transition hover:bg-purple-300 hover:text-black"
           >
-            Download PDF
+            Download White Paper v3
           </a>
         </div>
 
